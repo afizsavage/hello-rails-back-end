@@ -1,24 +1,38 @@
-# README
+# hello-rails-back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple api built with Rails that returns messages from a database.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
 
-* System dependencies
+## Link to React App
 
-* Configuration
+[React-Front-End](https://github.com/afizsavage/hello-react-front-end)
 
-* Database creation
+## Getting Started
 
-* Database initialization
+- **To get a local copy of the repository please run the following commands on your terminal:**
 
-* How to run the test suite
+  - `git clone https://github.com/afizsavage/hello-rails-back-end.git`
+  - `cd hello-rails-react`
+  - `bundle install` to couple all dependacies
 
-* Services (job queues, cache servers, search engines, etc.)
+- **Run the application**
+  - `rails s` to start the rails application
 
-* Deployment instructions
+## Author
 
-* ...
+👤 **Afiz Savage**
+
+- GitHub: [@afizsavage](https://github.com/afizsavage)
+- Twitter: [@fizzo_geek](https://twitter.com/fizzo_geek)
+- LinkedIn: [@afiz-savage](https://www.linkedin.com/in/afiz-savage-3b91a21ba/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
